@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Black Bear Cinematography]]></title>
+        <description><![CDATA[Black Bear Cinematography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 19:42:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mammoth Creek]]></title>
+            <description><![CDATA[<article><h1>Mammoth Creek</h1><p>Music by Volumes - "Reversion"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3df879d931ce3ad5352f2bfa73a8a20b73c07624.jpg"></article>]]></description>
+            <link>https://vimeo.com/151743622</link>
+            <guid isPermaLink="false">4a2350f3-6af1-49dc-8925-ac98c7564ed7</guid>
+            <pubDate>Mon, 18 Jan 2016 19:42:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
